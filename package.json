@@ -4,7 +4,7 @@
   "description": "Crestron HTML5 (CH5) CrComLib Lite",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Crestron/CH5ComponentLibrary.git"
+    "url": "https://github.com/Sight-and-Sound/ch5-crcomlib-lite.git"
   },
   "keywords": [
     "ch5",
